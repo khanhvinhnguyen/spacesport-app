@@ -1,0 +1,73 @@
+{
+  "_comments": "onLoad = {event => console.log(event)}",
+  "audioTracks": [
+    {
+      "name": "Disable",
+      "id": -1
+    },
+    {
+      "name": "Track 1",
+      "id": 0
+    },
+    {
+      "name": "Track 2",
+      "id": 1
+    },
+    {
+      "name": "Track 3",
+      "id": 2
+    },
+    {
+      "name": "Track 4",
+      "id": 6
+    },
+    {
+      "name": "Track 5",
+      "id": 7
+    },
+    {
+      "name": "Track 6",
+      "id": 8
+    },
+    {
+      "name": "Track 7",
+      "id": 9
+    },
+    {
+      "name": "Track 8",
+      "id": 10
+    },
+    {
+      "name": "Track 9",
+      "id": 11
+    },
+    {
+      "name": "Track 10",
+      "id": 13
+    },
+    {
+      "name": "Track 11",
+      "id": 14
+    },
+    {
+      "name": "Track 12",
+      "id": 15
+    },
+    {
+      "name": "Track 13",
+      "id": 19
+    }
+  ],
+  "textTracks": [
+    {
+      "name": "Disable",
+      "id": -1
+    },
+    {
+      "name": "Track 1",
+      "id": 4
+    }
+  ],
+  "duration": 0,
+  "target": 3
+}
